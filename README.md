@@ -1,0 +1,1 @@
+This is a part my "Hello World" in MEAN stack development. An applicatto post messages. This repo is the front-end built using Angular JS. The back-end is a seperate repo.
